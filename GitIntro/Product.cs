@@ -10,5 +10,6 @@ namespace GitIntro
     {
         public string Name { get; set; }
         public int Nr { get; set; }
+        public int Nr2 { get; set; }
     }
 }
