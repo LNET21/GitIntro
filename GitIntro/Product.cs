@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GitIntro
+﻿namespace GitIntro
 {
     class Product
     {
         public string Name { get; set; }
         public int Nr { get; set; }
-        public int Nr2 { get; set; }
+        public string Category { get; set; }
+        public int Count { get; set; }
     }
 }

@@ -6,9 +6,9 @@ namespace GitIntro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello from David!");
+            Console.WriteLine("Hello from David!");
+            Console.WriteLine("Hello from David!");
         }
     }
 }
