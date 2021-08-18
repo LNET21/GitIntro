@@ -8,8 +8,9 @@ namespace GitIntro
 {
     class Product
     {
-        public string Name { get; set; }
-        public int Nr { get; set; }
-        public int Nr2 { get; set; }
+        public string TitleName { get; set; }
+        public string Shelf { get; set; }
+        public int FirstNumber { get; set; }
+        public int MyProperty { get; set; }
     }
 }
