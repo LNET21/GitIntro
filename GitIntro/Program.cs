@@ -13,6 +13,8 @@ namespace GitIntro
             Console.WriteLine("Hello from David!");
             Console.WriteLine("Hello from David!");
             Console.WriteLine("From Merge Window");
+
+            Console.WriteLine("From local");
         }
     }
 }
