@@ -9,5 +9,6 @@ namespace GitIntro
     class Product
     {
         public string Name { get; set; }
+        public int Nr { get; set; }
     }
 }
