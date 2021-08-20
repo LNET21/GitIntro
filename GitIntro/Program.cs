@@ -15,6 +15,10 @@ namespace GitIntro
             Console.WriteLine("From Merge Window");
 
             Console.WriteLine("From local");
+            Console.WriteLine("From local");
+            Console.WriteLine("From local");
+            Console.WriteLine("From local");
+            Console.WriteLine("From local");
         }
     }
 }
